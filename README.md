@@ -6,8 +6,6 @@ Kilo (kg) / Boy(m) * Boy(m)
 
 ## Çıktısı
 
-Lütfen boyunuzu (metre cinsinde) giriniz : 1,72
-
-Lütfen kilonuzu giriniz : 105
-
-Vücut Kitle İndeksiniz : 35.49215792320173
+ Lütfen boyunuzu (metre cinsinde) giriniz : 1,72
+ Lütfen kilonuzu giriniz : 105
+ Vücut Kitle İndeksiniz : 35.49215792320173
